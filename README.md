@@ -2,7 +2,7 @@
 
 ### Aktuelle Projekte
 - [PyroOrganizer for Mac](https://soeren3003.github.io/PyroOrganizer-for-Mac/)
-- [DartConsoleUI](https://soeren3003.github.io/DartConsoleUI/)
+- [DartConsole](https://github.com/edhor1608/DartConsole)
 
 Englisch version below.
 
@@ -10,4 +10,4 @@ Englisch version below.
 
 ### current projects
 - [PyroOrganizer for Mac](https://soeren3003.github.io/PyroOrganizer-for-Mac/)
-- [DartConsoleUI](https://soeren3003.github.io/DartConsoleUI/)
+- [DartConsole](https://github.com/edhor1608/DartConsole)
